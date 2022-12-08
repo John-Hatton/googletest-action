@@ -22,5 +22,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Test project with googletest.
-      uses: arvsrao/googletest-action@master
+      uses: John-Hatton/googletest-action@master
 ```
